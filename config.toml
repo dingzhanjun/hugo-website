@@ -1,4 +1,4 @@
-title = "Hello! Notre-Dame de Paris"
+title = "Hello Notre-Dame de Paris"
 baseURL = "/hugo-website"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
